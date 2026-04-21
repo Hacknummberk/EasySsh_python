@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="https://github.com/yourrepo/easy_ssh.git"
+REPO_URL="https://github.com/Hacknummberk/EasySsh_python.git"
 INSTALL_DIR="$HOME/easy_ssh_app"
 BUILD_DIR="$INSTALL_DIR/build"
 DIST_DIR="$INSTALL_DIR/dist"
